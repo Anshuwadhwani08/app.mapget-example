@@ -1,0 +1,31 @@
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\bin\Debug\net6.0\appsettings.json
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\bin\Debug\net6.0\hello world asp.net.staticwebassets.runtime.json
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\bin\Debug\net6.0\hello world asp.net.exe
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\bin\Debug\net6.0\hello world asp.net.deps.json
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\bin\Debug\net6.0\hello world asp.net.runtimeconfig.json
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\bin\Debug\net6.0\hello world asp.net.dll
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\bin\Debug\net6.0\hello world asp.net.pdb
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\obj\Debug\net6.0\hello world asp.net.csproj.AssemblyReference.cache
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\obj\Debug\net6.0\hello world asp.net.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\obj\Debug\net6.0\hello world asp.net.AssemblyInfoInputs.cache
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\obj\Debug\net6.0\hello world asp.net.AssemblyInfo.cs
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\obj\Debug\net6.0\hello world asp.net.csproj.CoreCompileInputs.cache
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\obj\Debug\net6.0\hello world asp.net.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\obj\Debug\net6.0\hello world asp.net.RazorAssemblyInfo.cache
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\obj\Debug\net6.0\hello world asp.net.RazorAssemblyInfo.cs
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\obj\Debug\net6.0\staticwebassets\msbuild.hello world asp.net.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\obj\Debug\net6.0\staticwebassets\msbuild.build.hello world asp.net.props
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.hello world asp.net.props
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.hello world asp.net.props
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\obj\Debug\net6.0\scopedcss\bundle\hello world asp.net.styles.css
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\obj\Debug\net6.0\scopedcss\projectbundle\hello world asp.net.bundle.scp.css
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\obj\Debug\net6.0\hello world asp.net.dll
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\obj\Debug\net6.0\refint\hello world asp.net.dll
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\obj\Debug\net6.0\hello world asp.net.pdb
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\obj\Debug\net6.0\hello world asp.net.genruntimeconfig.cache
+C:\Users\anshu\OneDrive\Desktop\.Net training\hello world asp.net\hello world asp.net\obj\Debug\net6.0\ref\hello world asp.net.dll
